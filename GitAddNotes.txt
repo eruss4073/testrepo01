@@ -10,3 +10,12 @@ git add -A
 #next, we want to commit (create a snapshot) the changes we've#
 #made. Here, that is the addition of a file to our repository#
 git commit -m "type a message like 'added txt file'" 
+
+#next we pull updates from GitHub providing two arguments to the#
+#'git pull' command. we provide the source to pull from 'origin'#
+#and the branch of interest e.g. 'master'#
+git pull origin master
+
+#now we can push our 'added' and 'committed' changes to GitHub using#
+#the same arguments for destination and branch as for git pull#
+git push origin master
