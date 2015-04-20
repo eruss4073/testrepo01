@@ -1,6 +1,12 @@
 #first navigate to directory of interest#
 cd ~/"My Documents/Git/testrepo01/"
+#We'll assume that we added a file to the repo(directory)#
+
 #then add the file of interest to the Git index#
 git add -A
-#the -A flag specifies that all new files are to be added, and updates#
+#the -A flag specifies that all new files are to be added, and updates the#
 #tracking for all files that changed names or were deleted#
+
+#next, we want to commit (create a snapshot) the changes we've#
+#made. Here, that is the addition of a file to our repository#
+git commit -m "type a message like 'added txt file'" 
