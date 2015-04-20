@@ -1,0 +1,6 @@
+#first navigate to directory of interest#
+cd ~/"My Documents/Git/testrepo01/"
+#then add the file of interest to the Git index#
+git add -A
+#the -A flag specifies that all new files are to be added, and updates#
+#tracking for all files that changed names or were deleted#
