@@ -6,4 +6,9 @@ This is the third edit, or commit.
 
 I've published this as a gh pages project.
 
+I've added a series of links to markdown docs. The user could go to the level two doc, and then to three from there, or they could
+simply go directy yo the third level.
 
+[second level](https://github.com/eruss4073/testrepo01/blob/master/docs/alternate.md)
+
+[direct to third level](https://github.com/eruss4073/testrepo01/blob/master/docs/sub1/terminal.md)
