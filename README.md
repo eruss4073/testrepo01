@@ -6,7 +6,7 @@ This is the third edit, or commit.
 
 I've published this as a gh pages project.
 
-I've added a series of links to markdown docs. The user could go to the alternate doc, and then go into subfolder from there, or they could simply go directy to the md doc in the subfolder.
+I've added a series of links to markdown docs. The user could go to the alternate doc in the docs subfolder, and then go into the sub-subfolder from there, or they could simply go directy to the md doc in the sub-subfolder.
 
 [second level](https://github.com/eruss4073/testrepo01/blob/master/docs/alternate.md)
 
